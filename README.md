@@ -1,6 +1,6 @@
 # Gluco Check
 
-Diabetes is a chronic metabolic disease that affects millions of people worldwide. Early diagnosis and intervention are critical for the effective management of diabetes and prevention of complications. In this project, we have developed and compared three machine learning models for diabetes prediction: decision tree, XGBoost, random forest and support vector machine (SVM).
+Diabetes is a chronic metabolic disease that affects millions of people worldwide. Early diagnosis and intervention are critical for the effective management of diabetes and prevention of complications. In this project, I have developed and compared three machine learning models for diabetes prediction: decision tree, XGBoost, random forest and support vector machine (SVM).
 
 We used a dataset consisting of several clinical and demographic features of patients, including age, BMI, glucose levels, and blood pressure, to train and evaluate our models. We preprocessed the data by handling missing values and scaling the features to ensure optimal performance.
 
